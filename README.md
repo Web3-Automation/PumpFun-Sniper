@@ -13,7 +13,7 @@ To get started with the script, you’ll need the following:
 Clone the repository:
 ```
 git clone https://github.com/Web3-Automation/PumpFun-Sniper.git
-cd PumpFunSniper
+cd PumpFun-Sniper
 ```
 
 Run the script as follows:
